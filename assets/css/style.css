@@ -1,0 +1,66 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    font-size: 60px;
+    border: solid white 5px;
+    background:pink;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 13px;
+    font-family: 'Amatic SC', cursive;;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    margin-bottom: 5px;
+    font-family: 'Amatic SC', cursive;;
+    font-size: 20px;
+}
+
+span {
+    border: solid pink 5px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color:white; 
+    font-size: 18px;
+}
+
+
+.container {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 5px pink;
+    float: left;
+    
+}
+
+#currentword {
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+ .scoreboard {
+    padding: 20px;
+    background-color: white;
+    border: solid pink 5px;
+    float: right;
+}
